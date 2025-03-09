@@ -69,7 +69,7 @@ namespace ClickBuster_cs
         /// </summary>
         private void _RandPlace()
         {
-
+            aas
             // 出現場所はオーナーの範囲内にする
             // 高さ
             var intTop = _rnd.Next(_enemyOwner.Size.Height - _pbImgEnemy.Size.Height);
